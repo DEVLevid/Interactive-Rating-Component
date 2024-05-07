@@ -1,4 +1,4 @@
-interactive rating component 
+interactive rating component!
 
 ![image](https://user-images.githubusercontent.com/120687641/231168158-ea3b69e2-2522-4508-9387-5bcb2377941a.png)
 
